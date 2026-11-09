@@ -1,13 +1,13 @@
 # 002: Copy the course environment
 
 - **Status:** active
-- **Created:** YYYY-MM-DD
-- **Updated:** YYYY-MM-DD
+- **Created:** 2026-11-08
+- **Updated:** 2026-11-08
 - **Due:** 2026-11-01, after task 001
 
 ## Goal
 
-This repository builds the same Python environment as the course repository, from its own copy of `pyproject.toml`, `uv.lock`, and `.python-version`, and a notebook here runs on it. The copy matters because Reproducibility is a criterion of the final submission. A reader who clones your repository needs the lock file to rebuild the packages your notebook ran with, and a path to the course folder on your laptop gives them nothing.
+This repository builds the same Python environment as the course repository, from its own copy of `pyproject.toml`, `uv.lock`, and `.python-version`, and a notebook here runs on it. The copy matters because Reproducibgit commit -m "Add .gitignoreility is a criterion of the final submission. A reader who clones your repository needs the lock file to rebuild the packages your notebook ran with, and a path to the course folder on your laptop gives them nothing.
 
 ## Steps
 

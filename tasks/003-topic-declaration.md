@@ -1,7 +1,7 @@
 # 003: Topic declaration
 
 - **Status:** active
-- **Created:** YYYY-MM-DD
+- **Created:** 2026-11-08
 - **Updated:** YYYY-MM-DD
 - **Due:** 2026-11-08, 11:59 pm
 

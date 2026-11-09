@@ -28,6 +28,10 @@ When the student asks for a plan, give it in words and write no code until the s
 
 The student replaces the three lines below and adds a line each time they correct the assistant on the same point twice.
 
-- Question: (one sentence)
-- Data: (the file in `data/`, what one row is, and its source URL and access date)
-- Measured variable: (its column name and unit)
+- Question: (When a vancomycin aptamer sensor is quantified with a calibration curve built from other sensors, how much accuracy is lost, and is that loss smaller or larger than the loss from calibrating at the wrong temperature (room temperature vs. 37 °C)?)
+- Data: (the file in `data/`: txt files under Figure 2A, Figure 2B, Figure 4A, what one row is:  Each data file has 13 columns : potential, net/forward/reverse current per sensor , and its source URL and access date:  https://doi.org/10.6084/m9.figshare.c.5907050.v1. Accessed November 8, 2026.)
+- Measured variable: (net/forward/reverse current per sensor starting from 2nd column)
+
+
+
+

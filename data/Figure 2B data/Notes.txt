@@ -1,0 +1,3 @@
+30 mL of 37C rat blood is scanned at 25, 300 Hz. 
+
+A baseline is collected, then 10, 20, 50, 100, and 300 uM of vancomycin are added and back pipetted into the solution. 
